@@ -1,0 +1,4 @@
+name: train_env
+channels:
+  - defaults
+prefix: C:\Users\User\anaconda3\envs\train_env
